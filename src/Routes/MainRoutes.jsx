@@ -6,7 +6,6 @@ import {
   Navbar,
   Feed,
   VideoDeatails,
-  // ChannelDetails,
   SearchFeed,
 } from "../Components/AllExports";
 
@@ -17,8 +16,7 @@ const MainRoutes = () => {
       <Routes>
         <Route path="/" element={<Feed />} />
         <Route path="/video/:id" element={<VideoDeatails />} />
-        {/* <Route path="/channel/:id" element={<ChannelDetails />} /> */}
-        <Route path="/search/:id" element={<SearchFeed />} />
+        <Route path="/search/:searchTerm" element={<SearchFeed />} />
       </Routes>
     </Box>
   );
