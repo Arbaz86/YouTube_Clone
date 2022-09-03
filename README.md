@@ -23,8 +23,8 @@ category selections, and many other features, and it's fully responsive to any d
 <br />
 
 <div style="display: flex, justify-content: space-evenly">
-    <img src="./public/assets/readme/mobilehome.png" height="500" />
-    <img src="./public/assets/readme/mobilewatch.png" height="500" />
+    <img src="./public/assets/readme/mobilehome.png" height="700" />
+    <img src="./public/assets/readme/mobilewatch.png" height="700" />
 <div>
 
 #### Demo
