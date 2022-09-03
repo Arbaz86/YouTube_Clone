@@ -22,10 +22,9 @@ category selections, and many other features, and it's fully responsive to any d
 **`MOBILE VIEW`**
 <br />
 
-<div style="display: flex, justify-content: space-evenly">
-    <img src="./public/assets/readme/mobilehome.png" height="700" />
-    <img src="./public/assets/readme/mobilewatch.png" height="700" />
-<div>
+![App Screenshot](./public/assets/readme/mobilehome.png)
+![App Screenshot](./public/assets/readme/mobilewatch.png)
+
 
 #### Demo
 
