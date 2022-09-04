@@ -5,7 +5,7 @@ category selections, and many other features, and it's fully responsive to any d
 
 ### Tech Stack
 
-`HTML` `CSS` `JavaScript` `React` `Material UI`
+`HTML` `CSS` `JavaScript` `React` `Material UI` `Rapid API`
 
 <br/>
 
