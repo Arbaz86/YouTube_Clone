@@ -5,7 +5,7 @@ import { Box } from "@mui/material";
 import {
   Navbar,
   Feed,
-  VideoDeatails,
+  VideoDetails,
   SearchFeed,
 } from "../Components/AllExports";
 
@@ -15,7 +15,7 @@ const MainRoutes = () => {
       <Navbar />
       <Routes>
         <Route path="/" element={<Feed />} />
-        <Route path="/video/:id" element={<VideoDeatails />} />
+        <Route path="/video/:id" element={<VideoDetails />} />
         <Route path="/search/:searchTerm" element={<SearchFeed />} />
       </Routes>
     </Box>

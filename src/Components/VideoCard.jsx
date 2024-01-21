@@ -34,6 +34,7 @@ const VideoCard = ({
               sm: "358px",
               md: "320px",
             },
+            justifyContent: "flex-start",
             height: 180,
           }}
         />
