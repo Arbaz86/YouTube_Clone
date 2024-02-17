@@ -1,12 +1,11 @@
 import { useState, useEffect } from "react";
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import ReactPlayer from "react-player";
 import { Box, Stack, Typography } from "@mui/material";
 import { CheckCircle } from "@mui/icons-material";
 
 import { Videos } from "./AllExports";
 import fetchFromAPI from "../utils/fetchFromAPI";
-import Shimmer from "./Shimmer";
 
 const VideoDetails = () => {
   const [videoDetail, setVideoDetail] = useState(null);
